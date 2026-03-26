@@ -13,5 +13,8 @@ ruff
 scikit-learn
 tqdm
 typer
-mlflow
 -e .
+dvc[s3]
+dvc-azure
+mlflow
+python-dotenv
